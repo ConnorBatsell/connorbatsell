@@ -1,5 +1,6 @@
 ## I'm Connor 👋
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=2hzgzpbqplkqxmxupyebi68lg)
 <!--
 **ConnorBatsell/connorbatsell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
