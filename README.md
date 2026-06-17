@@ -1,4 +1,4 @@
-## I'm Connor! 👋
+## I'm Connor 👋
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=2hzgzpbqplkqxmxupyebi68lg)
 <!--
